@@ -20,6 +20,9 @@
 #### - Access a folder 
 #### - Identify and use a specific file type (.txt)
 #### - Concatenate all the files needed into a single structured file (using the library pandas)
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/c2.JPG)
+
 #### - Display the file
 #### - Refine the code if necessary
 
