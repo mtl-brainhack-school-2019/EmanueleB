@@ -33,6 +33,6 @@
 #### - Display the file
 #### - Refine the code if necessary
 
-### Learn how to perform some exploratory data analyses. Possible outcomes:
+### 3) Learn how to perform some exploratory data analyses. Possible outcomes:
 #### - Identify possible statistical properties (e.g. repeated patterns)
 
