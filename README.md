@@ -23,8 +23,7 @@
 #### - Display the file
 #### - Refine the code if necessary
 
-![GitHub Logo](C:\Users\Emanuele\Desktop\UdeM\PhD\BrainHack\Capture.JPG)
-Format: ![Alt Text](url)
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/Capture.JPG)
 
 ### 2) Learn how to write a script that performs the following actions:
 #### - Looping into other folders (a folder for each participant), 
