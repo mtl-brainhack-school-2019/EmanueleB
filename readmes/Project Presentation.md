@@ -48,14 +48,14 @@ The process is to eliminate almost entirely any type of manual work.
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/graph4.png)
 
 ## I prepered the code for the t-test that would be applied to all the participants once the all data is acquired.
-![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/ttest_result.JPG)
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/ttest_result.JPG)
 
 ## I applied a machine learning technique: training and testing. 
 ### The training phase uses the 20% of the data to develop a model
 ### The testing phase applies the model developed to the remaining 80% of the data
 
-![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/training_testing_results.JPG)
-![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/training_testing_graph.png)
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/ttest_result.JPG)
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/training_testing_graph.png)
 
 
 
