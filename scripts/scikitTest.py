@@ -8,9 +8,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 labels = ['02', '04', '05', '11', '13', '14', '15', '16', '17', '19', '20']    # list of strings
 
-#amusics = ['02', '04', '05', '11', '13', '14', '15', '16', '17'] 
-#non_amusics = ['19', '20']
-
 freqAvrg = []
 totalNotes = []
 
@@ -24,14 +21,6 @@ for participant in labels: # for loop to change folders
 
 df2 = pd.read_csv(r'\Users\Emanuele\Desktop\UdeM\PhD\BrainHack\ihateexcel.csv')
 df2 = df2.dropna(how='all')
-
-''' 
-scale = df2.loc[range(0, 11), 'Scale'].values
-time = df2.loc[range(0, 11), 'Time'].values
-outOfScale = df2.loc[range(0, 11), 'Out of Scale'].values
-globalScore = df2.loc[range(0, 11), 'Global'].values
-
- '''
 
 x = np.asarray(df2[['Scale','Time','Out of Scale','Global']])
 y = np.asarray(freqAvrg)
