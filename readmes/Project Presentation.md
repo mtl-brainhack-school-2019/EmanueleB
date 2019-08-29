@@ -13,7 +13,7 @@ Why this is important
 These goals are justified by the necessity to optimize time and ressources in managing and updating behavioural data that my lab is currently collecting.
 The process is to eliminate almost entirely any type of manual work.
 
-![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/flow%20chart.JPG)
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/flow%20chart.JPG)
 
 ## Project definition (about 200 words) What were you trying to accomplish, what was your question. This section may include a link to the presentation done during week 3.
 
