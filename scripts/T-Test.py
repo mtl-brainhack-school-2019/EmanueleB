@@ -26,5 +26,5 @@ for participant in non_amusics: # for loop to change folders
 
 statistic, pvalue = stats.ttest_ind(freqAvrg_amusics,freqAvrg_non_amusics, equal_var = False)
 
-print(statistic)
-print(pvalue)
+print("T test result: " +  str(statistic))
+print("pvalue: "+  str(pvalue))
