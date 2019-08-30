@@ -96,8 +96,4 @@ The process is to eliminate almost entirely any type of manual work.
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/training_testing_graph.png)
 
 
-### Project definition (about 200 words) What were you trying to accomplish, what was your question. This section may include a link to the presentation done during week 3.
-
-### Learning experience (about 200 words) Describe how the project actually happened. In particular, which tools, data and technologies were learned. This section should include paragraphs that you may have already written during week 2 (but it doesn't have to).
-
-### Results (about 200 words) The deliverables of your project, including but not limited to notebooks, code, figures, etc.
+# THANK YOU!
