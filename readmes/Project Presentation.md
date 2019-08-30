@@ -39,9 +39,14 @@ The process is to eliminate almost entirely any type of manual work.
 
 ### Every note is defined by 3 types of information: time, frequency and duration. The program generates a compressed file for each performance, as well as two .txt files for each performance. Once obtained, all the data of the entire list of performances for each participant need to be cleaned, organized and concatenated. 
 
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/Notes_details.JPG)
+
 ### For this purpose I used the library "pandas", which allowed me to:
 #### Extract the contents of the .txt files containing information for each notes;
 #### Creating a "DataFrame" structure contaning this information reorganized for all the songs for  in one .csv file per participant.
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/pandas_script.JPG)
+
 
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/Unorganized%20data.JPG)
 
@@ -58,6 +63,9 @@ The process is to eliminate almost entirely any type of manual work.
 #### 2 - the total number of notes per song;
 #### I again used the "pandas" library, which allowed me to once again reorganize the data and use methods for "DataFrames" that simplified data manipulation (e.g., dataframe.max() and dataframe.min()).
 
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/graphs_script1.JPG)
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/graphs_script2.JPG)
 
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/P002_second%20analysis.JPG)
 
@@ -72,12 +80,17 @@ The process is to eliminate almost entirely any type of manual work.
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/graph4.png)
 
 ### I prepered the code for the t-test that would be applied to all the participants once the all data is acquired. I used the "scipy" library to obtain the results of the t-test and the p value.
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/ttest_result.JPG)
+
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/ttest_result.JPG)
 
 ### I applied a machine learning technique: training and testing. 
 #### The training phase uses the 20% of the data to develop a model
 #### The testing phase applies the model developed to the remaining 80% of the data
 #### I used the "sklearn" library to perform this machine learning task and "matplotlib" to plot the results
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/scikittest_script.JPG)
 
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/training_testing_results.JPG)
 ![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/training_testing_graph.png)
