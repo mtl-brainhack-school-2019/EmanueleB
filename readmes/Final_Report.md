@@ -1,8 +1,6 @@
-#EMANUELE BLASIOLI
-# FINAL REPORT
+# EMANUELE BLASIOLI: FINAL REPORT. Title: Automation of processes to manage a large dataset of sung musical performances. 
 
-#EMANUELE BLASIOLI
-# FINAL REPORT
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/Congenital%20Amusia.png)
 
 ## High-level summary of the project (about 50 words)
 My project focuses on investigating statistical properties of sung performances in a population of subjects affected by a congenital condition known as congenital amusia (experimental group), as well as in a population of healthy individuals (control group).  Considering the current state of my project (data collection phase). 
