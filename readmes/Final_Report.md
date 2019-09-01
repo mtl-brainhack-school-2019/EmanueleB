@@ -5,7 +5,13 @@
 # FINAL REPORT
 
 ## High-level summary of the project (about 50 words)
-My project focuses on investigating statistical properties of sung performances in a population of subjects affected by a congenital condition known as congenital amusia (experimental group), as well as in a population of healthy individuals (control group).  Considering the current state of my project (data collection phase). The main priority, for me, refers to learning how to program in python in order to manipulate a growing dataset by automating a series of critical operations (data cleaning, data organization, data analysis). 
+My project focuses on investigating statistical properties of sung performances in a population of subjects affected by a congenital condition known as congenital amusia (experimental group), as well as in a population of healthy individuals (control group).  Considering the current state of my project (data collection phase). 
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/c3.JPG)
+
+The main priority, for me, refers to learning how to program in python in order to manipulate a growing dataset by automating a series of critical operations (data cleaning, data organization, data analysis). 
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/screenshots/flow%20chart.JPG)
 
 
 ## Project definition (about 200 words) 
@@ -18,6 +24,9 @@ In particular, I tried to accomplish the following main tasks
 -	Create scripts to display visually (through graphs) basic information describing the main characteristics of the behavioural data collected. 
 The intent is to achieve all the steps mentioned above by creating scripts with a single language (python), easily understandable by the other members of the lab, also easy to adapt to new data acquired and easy to update. 
 
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/graph3.png)
+
+![](https://github.com/mtl-brainhack-school-2019/EmanueleB/blob/master/graphs/graph4.png)
 
 ## Learning experience (about 200 words) 
 I began this project without any previous exposure to python. Therefore, I used a proactive approach to interact with the members of the workshop, asking for technical support and feedback. 
